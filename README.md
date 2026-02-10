@@ -15,6 +15,8 @@ Insights and recommendations are provided on the following key areas:
 
 **An interactive Power BI dashboard used to report and explore sales trends can be found here [[Link to Dashboard]](https://www.google.com/search?q=%23).**
 
+## 📊 [View the Live Interactive Dashboard Here](https://mehedibhai101.github.io/Annual_Sales_Analytics_Report/)
+
 ---
 
 # Data Structure & Initial Checks
