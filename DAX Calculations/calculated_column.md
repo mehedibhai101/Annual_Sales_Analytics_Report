@@ -13,7 +13,6 @@ SWITCH(
     pizza_sales[Time] >= TIME(21,0,0) && pizza_sales[Time] < TIME(23,59,59), "9PM - 12AM",
     "Other"
 )
-
 ```
 
 ---
