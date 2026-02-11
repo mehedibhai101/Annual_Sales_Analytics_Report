@@ -106,9 +106,12 @@ Annual_Sales_Analytics_Report/
 │
 ├── Dashboard/                            # Final visualization and reporting outputs
 │   ├── assets/                           # Visual elements used in reports (logos, icons, etc.)
+│   │   ├── Icons/                        # Collection of icons used in KPI Cards/Buttons
+│   │   ├── Images/                       # Images used in dashboard
 │   │   ├── Picture1.png                  # Temporal Demand & The "Golden Hour"
 │   │   ├── Picture2.png                  # The Sizing & Category Mix
-│   │   └── Picture3.png                  # Product Portfolio Health
+│   │   ├── Picture3.png                  # Product Portfolio Health
+│   │   └── Theme.json                    # Custom Power BI color palette for dashboard
 │   ├── live_dashboard.md                 # Links to hosted Power BI Service report
 │   └── static_overview.pdf               # Exported PDF version of the final dashboard for quick viewing
 │
