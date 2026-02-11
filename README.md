@@ -102,24 +102,30 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 ## 📂 Repository Structure
 
 ```
-├── Dashboard/
-│   ├── assets/
-│   │   ├── Picture1.png
-│   │   ├── Picture2.png
-│   │   └── Picture3.png
-│   ├── live_dashboard.md
-│   └── static_overview.pdf
-├── Data Cleaning/
-│   ├── calendar_table.m
-│   └── sales_table.m
-├── Dataset/
-│   ├── entity_relationship_diagram.svg
-│   └── Maria's Kitchen.csv
-├── DAX Calculations/
-│   ├── calculated_column.md
-│   └── measures.md
-├── LICENSE
-└── README.md
+**Maria-Kitchen-Analysis/**
+│
+├── **Dashboard/** # Final visualization and reporting outputs
+│   ├── **assets/** # Visual elements used in reports (logos, icons, etc.)
+│   │   ├── Picture1.png                # Brand assets or dashboard header graphics
+│   │   ├── Picture2.png                # Supplemental report visuals
+│   │   └── Picture3.png                # Background layouts or custom button icons
+│   ├── live_dashboard.md               # Links to hosted Power BI Service or Tableau reports
+│   └── static_overview.pdf             # Exported PDF version of the final dashboard for quick viewing
+│
+├── **Data Cleaning/** # ETL process and Power Query transformations
+│   ├── calendar_table.m                # M-script for generating a dynamic Date/Calendar table
+│   └── sales_table.m                   # M-script for cleaning and transforming raw sales records
+│
+├── **Dataset/** # The data foundation of the project
+│   ├── entity_relationship_diagram.svg # Visual map of table connections and cardinality
+│   └── Maria's Kitchen.csv             # The primary raw data source containing transaction history
+│
+├── **DAX Calculations/** # Business logic and analytical formulas
+│   ├── calculated_column.md            # Definitions for static row-level logic (e.g., aging buckets)
+│   └── measures.md                     # Dynamic aggregation formulas (e.g., Total Revenue, YoY Growth)
+│
+├── **LICENSE** # Legal terms for code and data usage
+└── **README.md** # Project summary, technical setup, and key insights
 ```
 
 ---
