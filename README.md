@@ -6,16 +6,16 @@ As the first dedicated analyst for the brand, I am tasked with auditing **$817.8
 
 Insights and recommendations are provided on the following key areas:
 
-* **Category 1: Temporal Demand & The "Golden Hour"** (Identifying Peak Sales Cycles)
-* **Category 2: The Sizing & Category Mix** (Analyzing Revenue Contribution by Product Type)
-* **Category 3: Product Portfolio Health** (Identifying Menu "Stars" and "Underperformers")
-* **Category 4: Transaction Dynamics** (Decoding Basket Size and Average Order Value)
+* **Temporal Demand & The "Golden Hour"** (Identifying Peak Sales Cycles)
+* **The Sizing & Category Mix** (Analyzing Revenue Contribution by Product Type)
+* **Product Portfolio Health** (Identifying Menu "Stars" and "Underperformers")
+* **Transaction Dynamics** (Decoding Basket Size and Average Order Value)
 
-**DAX queries regarding various analytical calculations can be found here [[Link to Script]](https://www.google.com/search?q=%23).**
+**PowerQuery M Code regarding data preparation process of various tables can be found here [[Link]](https://github.com/mehedibhai101/Annual_Sales_Analytics_Report/tree/main/Data%20Cleaning).**
 
-**An interactive Power BI dashboard used to report and explore sales trends can be found here [[Link to Dashboard]](https://www.google.com/search?q=%23).**
+**DAX queries regarding various analytical calculations can be found here [[Link]](https://github.com/mehedibhai101/Annual_Sales_Analytics_Report/tree/main/DAX%20Calculations).**
 
-## 📊 [View the Live Interactive Dashboard Here](https://mehedibhai101.github.io/Annual_Sales_Analytics_Report/)
+**An interactive Power BI dashboard used to report and explore sales trends can be found here [[Link]](https://app.powerbi.com/reportEmbed?reportId=89bfb7f8-9e1c-4f47-aade-0880fb670691&autoAuth=true&ctid=000f5299-e6a5-4616-a528-bce3e4e2b98d).**
 
 ---
 
