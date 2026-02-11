@@ -35,7 +35,7 @@ The analytical engine for Maria's Kitchen is built on a streamlined Star Schema,
 
 ---
 
-# Executive Summary
+# 📋 Executive Summary
 
 ### Overview of Findings
 
@@ -52,7 +52,7 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 * **Quarterly Stability.** Sales remain remarkably consistent across the year, with **Q2 ($208K)** showing a slight edge over Q4 ($199K), suggesting a stable year-round customer base without extreme seasonal dips.
 * **The 1 PM Carryover.** The lunch surge is not limited to a single hour; the **1 PM window** remains highly active ($106K), indicating a 2-hour high-intensity staffing requirement.
 
-![1](Dashboard/assets/Picture1.png)
+<img width="3133" height="1795" alt="Image" src="https://github.com/user-attachments/assets/3b27d9e5-9a5e-44ac-bb8c-c42ae996c19d" />
 
 ## 🍕 The Sizing & Category Mix
 
@@ -61,7 +61,7 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 * **The XXL Anomaly.** The **XXL** size is nearly non-existent, generating only **$1,006** from just 28 units sold all year. This suggests a menu complexity that offers little financial return.
 * **Price Point Sensitivity.** The most successful category (Classic) also has the most consistent pricing across sizes, making it the most predictable revenue stream for the kitchen.
 
-![2](Dashboard/assets/Picture2.png)
+<img width="2993" height="956" alt="Image" src="https://github.com/user-attachments/assets/5f9595f4-a3ad-4b5e-8916-94ed375d66a4" />
 
 ## 🏆 Product Portfolio Health (Stars vs. Underperformers)
 
@@ -70,7 +70,7 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 * **The "Deadweight" Bottom.** **The Brie Carre Pizza** is the lowest performer ($11.6K), significantly trailing even the second-lowest item.
 * **Ingredient Correlation.** Highly successful pizzas frequently feature "Chicken" and "Peppers," suggesting these are the "safe-bet" ingredients for future menu experimentation.
 
-![3](Dashboard/assets/Picture3.png)
+<img width="4766" height="1803" alt="Image" src="https://github.com/user-attachments/assets/c945a92f-d657-4099-a632-979b31806761" />
 
 ## 📈 Transaction Dynamics & Efficiency
 
@@ -108,9 +108,6 @@ Annual_Sales_Analytics_Report/
 │   ├── assets/                           # Visual elements used in reports (logos, icons, etc.)
 │   │   ├── Icons/                        # Collection of icons used in KPI Cards/Buttons
 │   │   ├── Images/                       # Images used in dashboard
-│   │   ├── Picture1.png                  # Temporal Demand & The "Golden Hour"
-│   │   ├── Picture2.png                  # The Sizing & Category Mix
-│   │   ├── Picture3.png                  # Product Portfolio Health
 │   │   └── Theme.json                    # Custom Power BI color palette for dashboard
 │   ├── live_dashboard.md                 # Links to hosted Power BI Service report
 │   └── static_overview.pdf               # Exported PDF version of the final dashboard for quick viewing
