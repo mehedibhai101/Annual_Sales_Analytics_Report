@@ -29,7 +29,7 @@ The analytical engine for Maria's Kitchen is built on a streamlined Star Schema,
 * **`Dim_Sizes`:** Categorizing pizzas from Small (S) to the specialty Double-Extra Large (XXL).
 
 ### Entity Relationship Diagram (ERD)
-https://github.com/mehedibhai101/Annual_Sales_Analytics_Report/blob/main/Dataset/entity_relationship_diagram.svg
+![Entity Relationship Diagram](Dataset/entity_relationship_diagram.svg)
 
 ---
 
