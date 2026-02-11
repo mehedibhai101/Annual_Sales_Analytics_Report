@@ -102,30 +102,30 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 ## 📂 Repository Structure
 
 ```
-**Maria-Kitchen-Analysis/**
+Annual_Sales_Analytics_Report/
 │
-├── **Dashboard/** # Final visualization and reporting outputs
-│   ├── **assets/** # Visual elements used in reports (logos, icons, etc.)
-│   │   ├── Picture1.png                # Brand assets or dashboard header graphics
-│   │   ├── Picture2.png                # Supplemental report visuals
-│   │   └── Picture3.png                # Background layouts or custom button icons
-│   ├── live_dashboard.md               # Links to hosted Power BI Service or Tableau reports
+├── Dashboard/                          # Final visualization and reporting outputs
+│   ├── assets/                         # Visual elements used in reports (logos, icons, etc.)
+│   │   ├── Picture1.png                # Temporal Demand & The "Golden Hour"
+│   │   ├── Picture2.png                # The Sizing & Category Mix
+│   │   └── Picture3.png                # Product Portfolio Health
+│   ├── live_dashboard.md               # Links to hosted Power BI Service report
 │   └── static_overview.pdf             # Exported PDF version of the final dashboard for quick viewing
 │
-├── **Data Cleaning/** # ETL process and Power Query transformations
-│   ├── calendar_table.m                # M-script for generating a dynamic Date/Calendar table
+├── Data Cleaning/                      # ETL process and Power Query transformations
+│   ├── calendar_table.m                # M-script for generating a dynamic Calendar table
 │   └── sales_table.m                   # M-script for cleaning and transforming raw sales records
 │
-├── **Dataset/** # The data foundation of the project
+├── Dataset/                            # The data foundation of the project
 │   ├── entity_relationship_diagram.svg # Visual map of table connections and cardinality
 │   └── Maria's Kitchen.csv             # The primary raw data source containing transaction history
 │
-├── **DAX Calculations/** # Business logic and analytical formulas
-│   ├── calculated_column.md            # Definitions for static row-level logic (e.g., aging buckets)
-│   └── measures.md                     # Dynamic aggregation formulas (e.g., Total Revenue, YoY Growth)
+├── DAX Calculations/                   # Business logic and analytical formulas
+│   ├── calculated_column.md            # Definitions for static row-level logic (e.g., hour buckets)
+│   └── measures.md                     # Dynamic aggregation formulas (e.g., Total Revenue, MoM Growth)
 │
-├── **LICENSE** # Legal terms for code and data usage
-└── **README.md** # Project summary, technical setup, and key insights
+├── LICENSE                             # Legal terms for code and data usage
+└── README.md                           # Project background, summary and key insights
 ```
 
 ---
