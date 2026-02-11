@@ -1,4 +1,4 @@
-# Project Background: Maria's Kitchen Annual Sales Audit
+# 📊 Project Background: Maria's Kitchen Annual Sales Audit
 
 **Maria’s Kitchen** is a high-traffic artisanal pizzeria located in the heart of **Hell's Kitchen, New York City**. Known for its signature thin-crust recipes and a diverse menu that caters to the city's fast-paced workforce and vibrant nightlife, the kitchen has become a local staple. **They were tracking their transaction data for one year and due to the rising competition challenge, now they hired me as a data analyst to** transform that raw transaction history into a strategic business decisions.
 
@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/615e7fea-1dff-4532-8635-36c2eab57148
 
 ---
 
-# Data Structure & Initial Checks
+# 🏗️ Data Structure & Initial Checks
 
 The analytical engine for Maria's Kitchen is built on a streamlined Star Schema, processing a comprehensive ledger of **48,620 individual records** across the 2015 fiscal year.
 
@@ -30,7 +30,7 @@ The analytical engine for Maria's Kitchen is built on a streamlined Star Schema,
 * **`Dim_Categories`:** Segmenting the menu into 4 core pillars: Classic, Chicken, Supreme, and Veggie.
 * **`Dim_Sizes`:** Categorizing pizzas from Small (S) to the specialty Double-Extra Large (XXL).
 
-### Entity Relationship Diagram (ERD)
+### 🗺️ Entity Relationship Diagram (ERD)
 ![Entity Relationship Diagram](Dataset/entity_relationship_diagram.svg)
 
 ---
@@ -43,9 +43,9 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 
 ---
 
-# Insights Deep Dive
+# 🔍 Insights Deep Dive
 
-### Temporal Demand & The "Golden Hour"
+### ⏰ Temporal Demand & The "Golden Hour"
 
 * **The 12 PM Peak.** Revenue peaks sharply at **12 PM ($111.8K)**, accounting for the busiest single hour of the day. This is followed by a secondary "Dinner Rush" at **6 PM ($89.2K)**.
 * **Friday is King.** **Friday** is the most profitable day of the week, generating **$136K**, whereas **Sunday** is the slowest day ($99K), representing a 27% revenue gap.
@@ -54,7 +54,7 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 
 ![1](Dashboard/assets/Picture1.png)
 
-### The Sizing & Category Mix
+### 🍕 The Sizing & Category Mix
 
 * **Large Size Dominance.** **Large (L)** pizzas are the primary revenue drivers, contributing **$375.3K (46% of total revenue)**. Medium ($249K) and Small ($178K) follow.
 * **Classic Category Volume.** The **Classic** category is the most popular, generating **$220K**, followed closely by Supreme ($208K).
@@ -63,7 +63,7 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 
 ![2](Dashboard/assets/Picture2.png)
 
-### Product Portfolio Health (Stars vs. Underperformers)
+### 🏆 Product Portfolio Health (Stars vs. Underperformers)
 
 * **The Revenue King.** **The Thai Chicken Pizza** is the #1 individual earner ($43.4K), proving that customers are willing to pay a premium for unique specialty flavors.
 * **Top 5 Powerhouse.** The top 5 pizzas (Thai Chicken, BBQ Chicken, California Chicken, Classic Deluxe, and Spicy Italian) alone drive approximately **25% of total revenue**.
@@ -72,7 +72,7 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 
 ![3](Dashboard/assets/Picture3.png)
 
-### Transaction Dynamics & Efficiency
+### 📈 Transaction Dynamics & Efficiency
 
 * **High Attachment Rate.** With **2.32 pizzas per order** on average, customers rarely order in isolation. This points to a "Group Dining" or "Family Night" usage case.
 * **The $38.31 AOV Benchmark.** The Average Order Value is relatively high for a local pizzeria, supported by the strong preference for Large sizes.
@@ -81,7 +81,7 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 
 ---
 
-# Recommendations:
+# 🚀 Recommendations:
 
 * **Lunch Rush Staffing:** Realign staff shifts to peak specifically between **11:30 AM and 1:30 PM**. The data shows this 2-hour window is critical to total daily profitability.
 * **Menu Simplification:** Immediately discontinue or move the **XXL size** to "Pre-Order Only." It accounts for less than 0.2% of revenue but adds unnecessary complexity to inventory and box stock.
@@ -91,8 +91,50 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 
 ---
 
-## Assumptions and Caveats:
+## ⚠️ Assumptions and Caveats:
 
 * **Ingredient Consistency:** Analysis assumes that the `unit_price` remained static throughout 2015; any mid-year price adjustments were not factored into the base calculation.
 * **Size Standardization:** "XL" and "XXL" sizes were assumed to be available across all categories unless the data showed zero transactions for specific sub-types.
 * **Data Completeness:** The analysis assumes 2015 represents a standard operating year without significant external disruptions (e.g., major renovations or prolonged closures).
+
+---
+
+## 📂 Repository Structure
+
+```
+├── Dashboard/
+│   ├── assets/
+│   │   ├── Picture1.png
+│   │   ├── Picture2.png
+│   │   └── Picture3.png
+│   ├── live_dashboard.md
+│   └── static_overview.pdf
+├── Data Cleaning/
+│   ├── calendar_table.m
+│   └── sales_table.m
+├── Dataset/
+│   ├── entity_relationship_diagram.svg
+│   └── Maria's Kitchen.csv
+├── DAX Calculations/
+│   ├── calculated_column.md
+│   └── measures.md
+├── LICENSE
+└── README.md
+```
+
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it with proper attribution.
+
+---
+
+## 🌟 About Me
+
+Hi! I’m **Mehedi Hasan**, well known as **Mehedi Bhai**, a Certified Data Analyst with strong proficiency in *Excel*, *Power BI*, and *SQL*. I specialize in data visualization, transforming raw data into clear, meaningful insights that help businesses make impactful data-driven decisions.
+
+Let’s connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-b3370130a/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@mehedibro101?si=huk7eZ05dOwHTs1-)
