@@ -52,34 +52,32 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 * **Quarterly Stability.** Sales remain remarkably consistent across the year, with **Q2 ($208K)** showing a slight edge over Q4 ($199K), suggesting a stable year-round customer base without extreme seasonal dips.
 * **The 1 PM Carryover.** The lunch surge is not limited to a single hour; the **1 PM window** remains highly active ($106K), indicating a 2-hour high-intensity staffing requirement.
 
-![1](Dashboard/assets/images.pdf)
+![1](Dashboard/assets/Picture1.png)
 
-### Category 2: The Sizing & Category Mix
+### The Sizing & Category Mix
 
 * **Large Size Dominance.** **Large (L)** pizzas are the primary revenue drivers, contributing **$375.3K (46% of total revenue)**. Medium ($249K) and Small ($178K) follow.
 * **Classic Category Volume.** The **Classic** category is the most popular, generating **$220K**, followed closely by Supreme ($208K).
 * **The XXL Anomaly.** The **XXL** size is nearly non-existent, generating only **$1,006** from just 28 units sold all year. This suggests a menu complexity that offers little financial return.
 * **Price Point Sensitivity.** The most successful category (Classic) also has the most consistent pricing across sizes, making it the most predictable revenue stream for the kitchen.
 
-[**Visualization: Revenue by Pizza Category & Size Distribution Chart**]
+![2](Dashboard/assets/Picture2.png)
 
-### Category 3: Product Portfolio Health (Stars vs. Underperformers)
+### Product Portfolio Health (Stars vs. Underperformers)
 
 * **The Revenue King.** **The Thai Chicken Pizza** is the #1 individual earner ($43.4K), proving that customers are willing to pay a premium for unique specialty flavors.
 * **Top 5 Powerhouse.** The top 5 pizzas (Thai Chicken, BBQ Chicken, California Chicken, Classic Deluxe, and Spicy Italian) alone drive approximately **25% of total revenue**.
 * **The "Deadweight" Bottom.** **The Brie Carre Pizza** is the lowest performer ($11.6K), significantly trailing even the second-lowest item.
 * **Ingredient Correlation.** Highly successful pizzas frequently feature "Chicken" and "Peppers," suggesting these are the "safe-bet" ingredients for future menu experimentation.
 
-[**Visualization: Top 5 vs Bottom 5 Pizzas by Revenue & Volume**]
+![3](Dashboard/assets/Picture3.png)
 
-### Category 4: Transaction Dynamics & Efficiency
+### Transaction Dynamics & Efficiency
 
 * **High Attachment Rate.** With **2.32 pizzas per order** on average, customers rarely order in isolation. This points to a "Group Dining" or "Family Night" usage case.
 * **The $38.31 AOV Benchmark.** The Average Order Value is relatively high for a local pizzeria, supported by the strong preference for Large sizes.
 * **Order Velocity.** With **21,350 total orders**, the kitchen processes roughly **58 orders per day**, but this is skewed heavily toward peak hours, creating significant prep-time pressure.
 * **Category Synergy.** Veggie and Classic pizzas are frequently paired in larger orders, serving as the "universal" options in group transactions.
-
-[**Visualization: Average Pizza Per Order & Category-wise Sales Volume**]
 
 ---
 
