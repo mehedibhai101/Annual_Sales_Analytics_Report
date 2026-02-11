@@ -45,7 +45,7 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 
 # 🔍 Insights Deep Dive
 
-### ⏰ Temporal Demand & The "Golden Hour"
+## ⏰ Temporal Demand & The "Golden Hour"
 
 * **The 12 PM Peak.** Revenue peaks sharply at **12 PM ($111.8K)**, accounting for the busiest single hour of the day. This is followed by a secondary "Dinner Rush" at **6 PM ($89.2K)**.
 * **Friday is King.** **Friday** is the most profitable day of the week, generating **$136K**, whereas **Sunday** is the slowest day ($99K), representing a 27% revenue gap.
@@ -54,7 +54,7 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 
 ![1](Dashboard/assets/Picture1.png)
 
-### 🍕 The Sizing & Category Mix
+## 🍕 The Sizing & Category Mix
 
 * **Large Size Dominance.** **Large (L)** pizzas are the primary revenue drivers, contributing **$375.3K (46% of total revenue)**. Medium ($249K) and Small ($178K) follow.
 * **Classic Category Volume.** The **Classic** category is the most popular, generating **$220K**, followed closely by Supreme ($208K).
@@ -63,7 +63,7 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 
 ![2](Dashboard/assets/Picture2.png)
 
-### 🏆 Product Portfolio Health (Stars vs. Underperformers)
+## 🏆 Product Portfolio Health (Stars vs. Underperformers)
 
 * **The Revenue King.** **The Thai Chicken Pizza** is the #1 individual earner ($43.4K), proving that customers are willing to pay a premium for unique specialty flavors.
 * **Top 5 Powerhouse.** The top 5 pizzas (Thai Chicken, BBQ Chicken, California Chicken, Classic Deluxe, and Spicy Italian) alone drive approximately **25% of total revenue**.
@@ -72,7 +72,7 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 
 ![3](Dashboard/assets/Picture3.png)
 
-### 📈 Transaction Dynamics & Efficiency
+## 📈 Transaction Dynamics & Efficiency
 
 * **High Attachment Rate.** With **2.32 pizzas per order** on average, customers rarely order in isolation. This points to a "Group Dining" or "Family Night" usage case.
 * **The $38.31 AOV Benchmark.** The Average Order Value is relatively high for a local pizzeria, supported by the strong preference for Large sizes.
