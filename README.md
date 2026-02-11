@@ -41,20 +41,18 @@ The analytical engine for Maria's Kitchen is built on a streamlined Star Schema,
 
 Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue** with an **Average Order Value (AOV) of $38.31**. The business is fueled by a massive **12 PM Lunch Rush** and a consistent **Friday peak ($136K annual)**, highlighting a strong corporate and weekend-starter following. While the **Classic category** is the primary volume engine, the **Thai Chicken Pizza** stands as the individual revenue champion ($43.4K), indicating a customer preference for premium, flavor-forward specialty items. To scale, the kitchen must address the operational strain of the 12 PM spike and reconsider the viability of low-performing specialty sizes like XXL.
 
-[**Visualization: Executive KPI Overview - Revenue, Orders, & Average Order Value**]
-
 ---
 
 # Insights Deep Dive
 
-### Category 1: Temporal Demand & The "Golden Hour"
+### Temporal Demand & The "Golden Hour"
 
 * **The 12 PM Peak.** Revenue peaks sharply at **12 PM ($111.8K)**, accounting for the busiest single hour of the day. This is followed by a secondary "Dinner Rush" at **6 PM ($89.2K)**.
 * **Friday is King.** **Friday** is the most profitable day of the week, generating **$136K**, whereas **Sunday** is the slowest day ($99K), representing a 27% revenue gap.
 * **Quarterly Stability.** Sales remain remarkably consistent across the year, with **Q2 ($208K)** showing a slight edge over Q4 ($199K), suggesting a stable year-round customer base without extreme seasonal dips.
 * **The 1 PM Carryover.** The lunch surge is not limited to a single hour; the **1 PM window** remains highly active ($106K), indicating a 2-hour high-intensity staffing requirement.
 
-[**Visualization: Hourly Sales Heatmap & Weekly Revenue Trends**]
+![1](https://github.com/mehedibhai101/Annual_Sales_Analytics_Report/blob/main/Dashboard/assets/images.pdf#page=1)
 
 ### Category 2: The Sizing & Category Mix
 
