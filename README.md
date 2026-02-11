@@ -11,11 +11,11 @@ Insights and recommendations are provided on the following key areas:
 * **Product Portfolio Health** (Identifying Menu "Stars" and "Underperformers")
 * **Transaction Dynamics** (Decoding Basket Size and Average Order Value)
 
-**PowerQuery M Code regarding data preparation process of various tables can be found here [[Link]](https://github.com/mehedibhai101/Annual_Sales_Analytics_Report/tree/main/Data%20Cleaning).**
+**PowerQuery M Code regarding data preparation process of various tables can be found [[here]](https://github.com/mehedibhai101/Annual_Sales_Analytics_Report/tree/main/Data%20Cleaning).**
 
-**DAX queries regarding various analytical calculations can be found here [[Link]](https://github.com/mehedibhai101/Annual_Sales_Analytics_Report/tree/main/DAX%20Calculations).**
+**DAX queries regarding various analytical calculations can be found [[here]](https://github.com/mehedibhai101/Annual_Sales_Analytics_Report/tree/main/DAX%20Calculations).**
 
-**An interactive Power BI dashboard used to report and explore sales trends can be found here [[Link]](https://app.powerbi.com/reportEmbed?reportId=89bfb7f8-9e1c-4f47-aade-0880fb670691&autoAuth=true&ctid=000f5299-e6a5-4616-a528-bce3e4e2b98d).**
+**An interactive Power BI dashboard used to report and explore sales trends can be found [[here]](https://app.powerbi.com/reportEmbed?reportId=89bfb7f8-9e1c-4f47-aade-0880fb670691&autoAuth=true&ctid=000f5299-e6a5-4616-a528-bce3e4e2b98d).**
 
 ---
 
@@ -29,6 +29,7 @@ The analytical engine for Maria's Kitchen is built on a streamlined Star Schema,
 * **`Dim_Sizes`:** Categorizing pizzas from Small (S) to the specialty Double-Extra Large (XXL).
 
 ### Entity Relationship Diagram (ERD)
+https://github.com/mehedibhai101/Annual_Sales_Analytics_Report/blob/main/Dataset/entity_relationship_diagram.svg
 
 ---
 
