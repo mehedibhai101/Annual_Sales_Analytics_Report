@@ -11,8 +11,7 @@ Insights and recommendations are provided on the following key areas:
 * **Product Portfolio Health** (Identifying Menu "Stars" and "Underperformers")
 * **Transaction Dynamics** (Decoding Basket Size and Average Order Value)
 
-<video src="Dashboard/assets/video_preview.mp4" width="100%" controls>
-</video>
+<video src="Dashboard/assets/video_preview.mp4" width="100%" controls></video>
 
 **PowerQuery M Code regarding data preparation process of various tables can be found [[here]](https://github.com/mehedibhai101/Annual_Sales_Analytics_Report/tree/main/Data%20Cleaning).**
 
