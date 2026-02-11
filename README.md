@@ -15,7 +15,7 @@ Insights and recommendations are provided on the following key areas:
 
 **DAX queries regarding various analytical calculations can be found [[here]](https://github.com/mehedibhai101/Annual_Sales_Analytics_Report/tree/main/DAX%20Calculations).**
 
-**An interactive Power BI dashboard used to report and explore sales trends can be found [[here]](https://app.powerbi.com/reportEmbed?reportId=89bfb7f8-9e1c-4f47-aade-0880fb670691&autoAuth=true&ctid=000f5299-e6a5-4616-a528-bce3e4e2b98d).**
+**An interactive Power BI dashboard used to report and explore sales trends can be found [[here]](https://app.powerbi.com/view?r=eyJrIjoiZDMxYjU4NDEtZjkxZS00NTY2LWEzYmMtYTk2OGE5MDljZDU2IiwidCI6IjAwMGY1Mjk5LWU2YTUtNDYxNi1hNTI4LWJjZTNlNGUyYjk4ZCIsImMiOjEwfQ%3D%3D).**
 
 ---
 
