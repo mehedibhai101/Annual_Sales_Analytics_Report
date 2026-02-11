@@ -92,9 +92,8 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 
 ---
 
-# Assumptions and Caveats:
+## Assumptions and Caveats:
 
 * **Ingredient Consistency:** Analysis assumes that the `unit_price` remained static throughout 2015; any mid-year price adjustments were not factored into the base calculation.
-* **Order Time Mapping:** The `Time` column was treated as the "Order Completion Time" for the purpose of identifying kitchen peak-pressure hours.
 * **Size Standardization:** "XL" and "XXL" sizes were assumed to be available across all categories unless the data showed zero transactions for specific sub-types.
 * **Data Completeness:** The analysis assumes 2015 represents a standard operating year without significant external disruptions (e.g., major renovations or prolonged closures).
