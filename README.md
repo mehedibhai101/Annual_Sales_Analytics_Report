@@ -52,7 +52,7 @@ Maria’s Kitchen is a high-velocity operation generating **$817.8K in revenue**
 * **Quarterly Stability.** Sales remain remarkably consistent across the year, with **Q2 ($208K)** showing a slight edge over Q4 ($199K), suggesting a stable year-round customer base without extreme seasonal dips.
 * **The 1 PM Carryover.** The lunch surge is not limited to a single hour; the **1 PM window** remains highly active ($106K), indicating a 2-hour high-intensity staffing requirement.
 
-![1](https://github.com/mehedibhai101/Annual_Sales_Analytics_Report/blob/main/Dashboard/assets/images.pdf#page=1)
+![1](Dashboard/assets/images.pdf#page=1)
 
 ### Category 2: The Sizing & Category Mix
 
