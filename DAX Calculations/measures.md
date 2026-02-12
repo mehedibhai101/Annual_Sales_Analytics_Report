@@ -1,3 +1,7 @@
+# 📊 Measures & Calculations
+
+This documentation provides a comprehensive overview of the DAX measures and calculations used for the analysis.
+
 ### Key Metrics and Formulas:
 
 * **Total Sales**: Sum of sales revenue for the selected period.
